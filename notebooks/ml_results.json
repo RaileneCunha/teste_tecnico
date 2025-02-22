@@ -1,0 +1,37 @@
+{
+    "best_params": {
+        "max_depth": 10,
+        "min_samples_split": 10,
+        "n_estimators": 300
+    },
+    "metrics": {
+        "validation": {
+            "MSE": 655896.515391981,
+            "RMSE": 809.8743824766783,
+            "R2": 0.027788828805241694
+        },
+        "test": {
+            "MSE": 365272.3220840153,
+            "RMSE": 604.3776320182733,
+            "R2": 0.038531651199513184
+        }
+    },
+    "feature_importance": [
+        {
+            "Feature": "Quantity",
+            "Importance": 0.3637771640963448
+        },
+        {
+            "Feature": "Month",
+            "Importance": 0.2529895223786244
+        },
+        {
+            "Feature": "Discount",
+            "Importance": 0.23262931415009325
+        },
+        {
+            "Feature": "Year",
+            "Importance": 0.1506039993749376
+        }
+    ]
+}
