@@ -3,8 +3,8 @@
 Este notebook tem como objetivo realizar uma análise exploratória de dados (EDA) no dataset de uma loja fictícia e gerar insights significativos para o negócio. O case técnico é composto por três níveis:
 
 1. Nível 1: Análise Exploratória (EDA) e Insights
-2. Nível 2: Modelagem Preditiva
-3. Nível 3: Geração de Insights com Modelos de Linguagem de Grande Porte (LLMs)
+2. Nível 2: Machine Learning Aplicado
+3. Nível 3: Integração com IA Generativa
 
 ## Nível 1: Análise Exploratória (EDA) e Insights
 
@@ -18,7 +18,7 @@ Realizar tratamento e preparação dos dados, análise exploratória com estatí
 4. **Análise exploratória**: Estatísticas descritivas e visualizações de vendas ao longo do tempo e por categoria de produto.
 5. **Identificação de insights**: Documentar 3-5 insights significativos sobre o negócio.
 
-## Nível 2: Modelagem Preditiva
+## Nível 2: Machine Learning Aplicado
 
 ### Objetivo
 Desenvolver modelos de machine learning para prever vendas com base em variáveis como 'Profit', 'Quantity' e 'Discount'.
@@ -29,7 +29,7 @@ Desenvolver modelos de machine learning para prever vendas com base em variávei
 3. **Avaliação dos modelos**: Calcular métricas de performance como MAE, R² Score e RMSE.
 4. **Comparação de modelos**: Comparar os desempenhos e identificar o modelo mais eficaz.
 
-## Nível 3: Geração de Insights com Modelos de Linguagem de Grande Porte (LLMs)
+## Nível 3: Integração com IA Generativa
 
 ### Objetivo
 Utilizar a API da OpenAI para gerar insights relevantes em linguagem natural com base nas métricas dos modelos de machine learning.
@@ -44,7 +44,7 @@ Utilizar a API da OpenAI para gerar insights relevantes em linguagem natural com
 ### Requisitos
 
 - Python 3.6 ou superior
-- Bibliotecas Python: pandas, matplotlib, seaborn, openai
+- Bibliotecas Python: pandas, matplotlib, seaborn, openai, scikit-learn e numpy
 
 ### Instalação de Dependências
 
