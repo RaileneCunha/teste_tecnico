@@ -1,3 +1,6 @@
+![Teste Prático](
+img/img.png)
+
 ## Teste Prático
 Este repositório contém a solução para de um case técnico. O projeto é dividido em três notebooks, cada um correspondendo a uma etapa do processo de análise de dados, modelagem de machine learning e geração de insights com IA generativa.
 
