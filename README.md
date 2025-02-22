@@ -20,7 +20,7 @@ superstore_case/
 - Bibliotecas Python: As dependências estão listadas no arquivo requirements.txt.
 - Google Colab, Jupyter Notebook ou VSCode: Para execução dos notebooks.
 - Chave de API da OpenAI: Necessária para o notebook ia_generativa.ipynb. Obtenha uma chave em https://platform.openai.com/.
-- Adicione a chave gerada na OpenAi ao executar o notebook ia_generativa.ipynb.
+- Adicione a chave gerada na OpenAI ao executar o notebook ia_generativa.ipynb.
 
 ## 3. Como Executar o Projeto
 Siga os passos abaixo para configurar e executar o projeto localmente.
